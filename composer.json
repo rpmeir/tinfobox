@@ -1,0 +1,26 @@
+{
+    "name": "rpmeir/tinfobox",
+    "description": "TInfoBox plugin for use in Adianti Framework",
+    "type": "library",
+    "keywords": ["infobox","adianti"],
+    "homepage": "https://github.com/rpmeir/tinfobox",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rodrigo Pires Meira",
+            "email": "rpmeir@gmail.com"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/rpmeir/tinfobox"
+        }
+    ],
+    "require": {},
+    "autoload" : {
+        "psr-4" : {
+            "Rpmeir\\TSwiper\\" : "src"
+        }
+    }
+}
