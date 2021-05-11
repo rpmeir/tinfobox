@@ -8,7 +8,7 @@ use Adianti\Control\TAction; // Redirect to another class with more info?
 /**
  * TInfoBox
  *
- * @version    1.0.0
+ * @version    1.0.1
  * @package    tinfobox
  * @author     Rodrigo Pires Meira
  */
