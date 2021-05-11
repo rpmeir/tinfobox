@@ -1,4 +1,5 @@
 <?php
+namespace Rpmeir\TInfoBox;
 
 use Adianti\Widget\Base\TElement;
 use Adianti\Widget\Util\TImage;
